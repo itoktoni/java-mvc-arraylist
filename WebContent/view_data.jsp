@@ -19,6 +19,7 @@
 	</form>
 	<hr>
 	<ul>
+	
 	<c:forEach var="list_data" items="${data}">
 		
 		<li>
